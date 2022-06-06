@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/New folder/DataStructure/linked stack/Blanced brackets.c
+Blanced brackets.h
+D:/New folder/DataStructure/linked stack/Blanced brackets.h
+
+D:/New folder/DataStructure/linked stack/Blanced brackets.h
+linked stack.h
+D:/New folder/DataStructure/linked stack/linked stack.h
+string.h
+-
+strings.h
+D:/New folder/DataStructure/linked stack/strings.h
+stdio.h
+-
+stdlib.h
+-
+
+D:/New folder/DataStructure/linked stack/linked stack.c
+stdlib.h
+-
+linked stack.h
+D:/New folder/DataStructure/linked stack/linked stack.h
+
+D:/New folder/DataStructure/linked stack/linked stack.h
+stdio.h
+-
+stdlib.h
+-
+
+D:/New folder/DataStructure/linked stack/main.c
+linked stack.h
+D:/New folder/DataStructure/linked stack/linked stack.h
+
