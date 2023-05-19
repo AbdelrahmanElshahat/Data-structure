@@ -1,3 +1,0 @@
-D:/New folder/DataStructure/linked stack/cmake-build-debug/CMakeFiles/linked_stack.dir
-D:/New folder/DataStructure/linked stack/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/New folder/DataStructure/linked stack/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,3 +1,0 @@
-D:/New folder/DataStructure/LinkedList1/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/New folder/DataStructure/LinkedList1/cmake-build-debug/CMakeFiles/linkedlist.dir
-D:/New folder/DataStructure/LinkedList1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
